@@ -1,0 +1,10 @@
+{
+  "gdrive": {
+    "oauth_credentials_file": "/home/barmor420/gdrive_token/code_secret_client_163499800699-37tntlgj0r3191dpvuopi7oqcspg0fss.apps.googleusercontent.com.json",
+    "oauth_token_file": "/home/barmor420/gdrive_token/running_token.json",
+    "folder_destination_id": "2dc4fGt6s34nUjml8fs3dDEtrcR510nhY"
+  },
+  "folder": {
+    "source": "/home/barmor420/tests/camera/"
+  }
+}
